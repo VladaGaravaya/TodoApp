@@ -1,0 +1,20 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "webpack": "^4.34.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2",
+    "webpack-cli": "^3.3.4"
+  }
+}
